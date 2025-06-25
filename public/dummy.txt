@@ -1,0 +1,282 @@
+  { title: "Happy Bday Ammu", image: "/IMG_20240626_000628.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013729_422.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013732_835.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013734_436.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013741_136.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013744_583.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013750_267.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG-20240912-WA0022.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG-20240912-WA0023.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG-20250118-WA0038.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122153.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122206.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122214.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122222.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122237.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122246.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122302.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122321.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122446.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122706.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122715.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122747.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122821.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122946.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123006.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123021.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123038.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123044.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123103.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123143.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123205.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123219.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123224.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123237.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123248.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123313.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123320.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123328.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123334.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123346.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123431.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123518.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123531.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123539.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123602.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123628.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123656.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123813.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123834.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123846.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123907.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123928.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2024-05-10 211957.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2024-05-12 130359.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2024-06-07 232258.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2024-06-11 230119.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2024-11-13 002530.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-01-15 215705.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-01-18 202345.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-01-28 224124.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-03-04 233915.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-04-14 000052.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-04-29 232903.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123935.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123952.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124003.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124010.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124021.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124025.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124030.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124038.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124053.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124113.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124128.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124155.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124212.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124226.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124236.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124241.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124247.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124257.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124305.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124312.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124319.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124324.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124355.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124402.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124436.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124446.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124520.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124530.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124539.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124602.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124631.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124639.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124647.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124656.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124713.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124718.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124725.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124739.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124819.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124825.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124838.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124843.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124848.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124858.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124926.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124941.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125022.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125039.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125106.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125123.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125138.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125146.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125150.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122230.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122340.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122406.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122446.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122706.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122715.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122747.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122821.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122946.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123718.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123734.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123813.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123834.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123846.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123907.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123928.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123935.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124402.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124416.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124428.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124436.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124446.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124450.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124502.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124530.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124539.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124602.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125150.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125154.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125208.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125224.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125233.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125230.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125237.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125246.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125264.jpg" },
+{ title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 125276.jpg" }
+
+
+
+
+
+
+
+
+
+
+Screenshot 2024-05-10 211957
+Screenshot 2024-05-12 130359
+Screenshot 2024-06-07 232258
+Screenshot 2024-06-11 230119
+Screenshot 2024-11-13 002530
+Screenshot 2025-01-15 215705
+Screenshot 2025-01-18 202345
+Screenshot 2025-01-28 224124
+Screenshot 2025-03-04 233915
+Screenshot 2025-04-14 000052
+Screenshot 2025-04-29 232903
+Screenshot 2025-05-01 122153
+Screenshot 2025-05-01 122206
+Screenshot 2025-05-01 122214
+Screenshot 2025-05-01 122222
+Screenshot 2025-05-01 122237
+Screenshot 2025-05-01 122246
+Screenshot 2025-05-01 122302
+Screenshot 2025-05-01 122321
+Screenshot 2025-05-01 122446
+Screenshot 2025-05-01 122706
+Screenshot 2025-05-01 122715
+Screenshot 2025-05-01 122747
+Screenshot 2025-05-01 122821
+Screenshot 2025-05-01 122946
+Screenshot 2025-05-01 123006
+Screenshot 2025-05-01 123021
+Screenshot 2025-05-01 123038
+Screenshot 2025-05-01 123044
+Screenshot 2025-05-01 123103
+Screenshot 2025-05-01 123143
+Screenshot 2025-05-01 123205
+Screenshot 2025-05-01 123219
+Screenshot 2025-05-01 123224
+Screenshot 2025-05-01 123237
+Screenshot 2025-05-01 123248
+Screenshot 2025-05-01 123313
+..
+Here's the list of **unique image entries** from your original input (with duplicates removed **after the first occurrence**) in the **same format** and a **total count** at the end:
+
+---
+
+```js
+[
+  { title: "Happy Bday Ammu", image: "/IMG_20240626_000628.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013729_422.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013732_835.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013734_436.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013741_136.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013744_583.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG_20241124_013750_267.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG-20240912-WA0022.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG-20240912-WA0023.jpg" },
+  { title: "Happy Bday Ammu", image: "/IMG-20250118-WA0038.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122153.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122206.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122214.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122222.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122237.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122246.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122302.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122321.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122446.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122706.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122715.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122747.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122821.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 122946.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123006.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123021.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123038.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123044.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123103.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123143.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123205.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123219.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123224.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123237.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123248.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123313.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123320.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123328.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123334.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123346.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123431.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123518.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123531.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123539.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123602.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123628.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123656.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123718.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123734.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123813.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123834.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123846.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123907.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123928.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2024-05-10 211957.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2024-05-12 130359.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2024-06-07 232258.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2024-06-11 230119.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2024-11-13 002530.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-01-15 215705.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-01-18 202345.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-01-28 224124.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-03-04 233915.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-04-14 000052.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-04-29 232903.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123935.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 123952.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124003.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124010.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124021.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124025.jpg" },
+  { title: "Happy Bday Ammu", image: "/Screenshot 2025-05-01 124030.jpg" },
+  {
+```
+
